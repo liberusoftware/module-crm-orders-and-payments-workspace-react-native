@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-orders-and-payments-workspace-react-native",
+  "capabilityKey": "liberusoftware/module-crm-orders-and-payments-workspace",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-orders-and-payments-workspace-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/orders-and-payments-workspace.md",
+  "presentationPlan": "projects/crm/react-native/orders-and-payments-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
